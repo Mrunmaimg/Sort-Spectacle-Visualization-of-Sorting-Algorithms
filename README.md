@@ -1,7 +1,7 @@
 # Sort-Spectacle-Visualization-of-Sorting-Algorithms
 
 Sort Spectacle: Sorting Algorithm Visualizer
-Sort Spectacle is an interactive web-based tool designed to help users understand and explore sorting algorithms. With real-time visualizations, users can see how different sorting algorithms behave on custom input data, observing key operations like comparisons, swaps, and element movements.
+Sort Spectacle is an interactive web-based tool designed to help users understand and explore sorting algorithms. With real-time visualizations, users can see how different sorting algorithms behave, observing key operations like comparisons, swaps, and element movements.
 
 Features
 Algorithms Supported:
